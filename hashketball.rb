@@ -139,7 +139,7 @@ binding.pry
   end
   points
 end
-# binding.pry
+num_points_scored("Jeff Adrien")
 def shoe_size (name)
   shoe = nil
   game_hash.each do |team, data|
