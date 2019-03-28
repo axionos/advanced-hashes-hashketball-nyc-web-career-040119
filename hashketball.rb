@@ -140,6 +140,7 @@ binding.pry
   points
 end
 num_points_scored("Jeff Adrien")
+
 def shoe_size (name)
   shoe = nil
   game_hash.each do |team, data|
